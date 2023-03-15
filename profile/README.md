@@ -14,7 +14,7 @@
 ### 먹어보시개 팀
 `MVP(Minimum Viable Product)` 방식으로 개발/배포를 진행하며, 기술 자체보다 사용자의 니즈 충족 및 사업성에 가치를 둡니다. 먹어보시개 팀은 대구소프트웨어마이스터고 내에서 조직된 팀입니다.
 
-|               |           [Back-end](https://github.com/EAT-IT-DOG/eatitdog-backend)            |             [Front-end](https://github.com/EAT-IT-DOG/Eat-It-Dog-Web-V1)              |                 [Android](https://github.com/EAT-IT-DOG/eatitdog-android)                 | [iOS](https://github.com/EAT-IT-DOG/eatitdog-ios) | Design  |
+|               |           [Back-end](https://github.com/EAT-IT-DOG/eatitdog-backend)            |             [Front-end](https://github.com/EAT-IT-DOG/Eat-It-Dog-Web-V1)              |                 [Android](https://github.com/EAT-IT-DOG/eatitdog-android)                 | [iOS](https://github.com/EAT-IT-DOG/eatitdog-ios) | [Design](https://www.figma.com/file/F1WUGy815gZUMmXn3cv2Um/%EB%A8%B9%EC%96%B4%EB%B3%B4%EC%8B%9C%EA%B0%9C-%EC%9B%B9-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0%3A1&t=Sf1xPliRxuXETFmh-1)  |
 |:-------------:|:-----------------------------:|:--------------------------------------:|:-------------------------------------------:|:-------------------------------------------------:|:-------:|
 |    People     |         우준성 (Leader)          |             임동현, 강보민, 김성주              |                     김태환                     |                        이석호                        |   김영성   |
 |    Skills     | SpringBoot (Java), JPA, MySQL, AWS EC2 | React, TypeScript, React-query, Recoil | Kotlin, Clean Architecture, MVVM, Retrofit2 |        Swift, SwiftUI, Alamofire, MV State        |         |
